@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AICard</string>
+    <string name="select_recording_format">请选择录音格式</string>
+    <string-array name="recording_formats">
+        <item>MP3</item>
+        <item>FLAC</item>
+        <item>3GP</item>
+    </string-array>
+</resources>
